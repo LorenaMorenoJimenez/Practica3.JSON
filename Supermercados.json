@@ -1,0 +1,209 @@
+{
+    "supermercado 1": [
+    {
+        "id":1, 
+        "nombre":"Mercadona",
+        "direccion": "Pl. Circular",
+        "geolocalizacion": [
+          "37°59'34.5 N",
+          "1°07'47.1 W"
+        ],
+        "lugar": "Murcia",
+        "horarioApertura": "Lunes a Sábado 9:00 a 21:30h ",
+        "productos": [
+            {
+                "id": "1Mercadona",
+                "nombre": "Atún claro",
+                "seccion": "conservas",
+                "descripcion": "Atún claro en aceite de oliva",
+                "origen": "España",
+                "oferta": false,
+                "pvp": 5.05,
+                "formato": "6 x 60g",
+                "habitual": true,
+                "adquirido": true
+              },
+            {
+                "id": "2Mercadona",
+                "nombre": "Huevos",
+                "seccion": "Huevos",
+                "descripcion": "Huevos grandes L",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                  "01/04/23",
+                  "08/04/23"
+                 ],
+                "pvp": 2.20,
+                "pvpRebajado": 1.99,
+                "formato": "12 ud.",
+                "habitual": true,
+                "adquirido": false
+              },
+            {
+                "id": "3Mercadona",
+                "nombre": "Aguacates",
+                "seccion": "Fruta y verdura",
+                "descripcion": "Aguacates en bandeja",
+                "origen": "Marruecos",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "22/03/23",
+                    "29/03/23"
+                   ],
+                "pvp": 2.30,
+                "pvpRebajado": 2.00,
+                "formato": "Bandeja 550gr",
+                "habitual": true,
+                "adquirido": true
+            },
+        ]
+    }
+],
+
+     "supermercado 2": [
+     {
+        "id": 2,
+        "nombre": "Día",
+        "direccion": "Mayor, s/n,",
+        "geolocalizacion": [
+             "38°00'43.4 N",
+             "01°09'19.9 W"
+                  ],
+        "lugar": "Murcia",
+        "horarioApertura": "Lunes a Sábado de 9:00 - 21:30h",
+        "productos": [
+            {
+                "id": "1Dia",
+                "nombre": "Coca-cola",
+                "seccion": "Refrescos",
+                "descripcion": "Coca-cola zero pack 12 33cl",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "06/04/23",
+                    "10/04/23"
+                   ],
+                 "pvp": 9.84,
+                "pvpRebajado": 9.12,
+                "formato": "Pack 12 latas",
+                "habitual": true,
+                "adquirido": true
+            },
+            {
+                "id": "2Dia",
+                "nombre":"Bacon en lonchas",
+                "seccion": "Charcuteria",
+                "descripcion": "Bacon en lonchas ELPOZO",
+                "origen": "España",
+                "oferta": "false",
+                "pvp": 1.50,
+                "formato": "Envase 110gr",
+                "habitual": true,
+                "adquirido": false
+            },
+            {
+                "id": "3Dia",
+                "nombre": "Leche semidesnatada",
+                "seccion": "Lacteos",
+                "descripcion": "Leche semidesnatada Asturiana",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "10/04/23",
+                    "20/04/23"
+                   ],
+                "pvp": 1.78,
+                "pvpRebajado": 1.63,
+                "formato": "Botella 1.5 L",
+                "habitual": true,
+                "adquirido": true
+            },
+            
+        ]
+    }
+],
+   
+    "supermercado 3": [
+        {
+         "id": 3,
+        "nombre": "Aldi",
+        "direccion": "Av. Víctor Garrigos, 27",
+        "geolocalizacion": [
+            "38°01'47.9 N",
+            "01°08'46.3 W"
+                 ],
+        "lugar": "Murcia",
+        "horarioApertura": "Lunes a Sábado de 9:00 - 22:00h",
+        "productos": [
+            {
+                "id": "1Aldi",
+                "nombre": "Filetes de bacalao",
+                "seccion": "Pescados",
+                "descripcion": "Bandeja de filete de bacalao al punto de sal con piel",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "05/04/23",
+                    "11/04/23"
+                   ],
+                "pvp": 4.99,
+                "pvpRebajado": 3.99,
+                "formato": "Bandeja 360gr",
+                "habitual": true,
+                "adquirido": true
+            },
+            {
+                "id": "2Aldi",
+                "nombre": "Queso semicurado",
+                "seccion": "Lacteos",
+                "descripcion": "Queso semicurado con leche de vaca, oveja y cabra",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "05/04/23",
+                    "11/04/23"
+                   ],
+                "pvp": 2.89,
+                "pvpRebajado": 2.59,
+                "formato": "En cuña 300gr",
+                "habitual": true,
+                "adquirido": false
+            },
+            {
+                "id": "3Aldi",
+                "nombre": "Crema 100% cacahuete crunchy",
+                "seccion": "Azúcar y variados",
+                "descripcion": "Crema de cacahuete 100% cacahuetes tostados",
+                "origen": "España",
+                "oferta": true,
+                "vigenciaOferta": [
+                    "05/04/23",
+                    "11/04/23"
+                   ],
+                "pvp": 3.19,
+                "pvpRebajado": 2.79,
+                "formato": "Bote 500gr",
+                "habitual": true,
+                "adquirido": true
+            }
+        ]
+      }
+    ]
+}
+
+             
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   

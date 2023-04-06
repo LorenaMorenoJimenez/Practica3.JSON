@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercado 3>
+	<id>3</id>
+	<nombre>Aldi</nombre>
+	<direccion> Av.Víctor Garrigos,27</direccion>
+	<geolocalizacion>38°01'47.9 N</geolocalizacion>
+	<geolocalizacion>01°08'46.3 W</geolocalizacion>
+	<lugar>Murcia</lugar>	
+	<horarioApertura>Lunes a Sábado de 9:00 - 22:00h</horarioApertura>
+	
+	<productos>
+		<id>1Aldi</id>
+		<nombre>Filetes de bacalao</nombre>
+		<seccion>Pescados</seccion>
+		<descripcion>Bandeja de filete de bacalao al punto de sal con piel</descripcion>
+		<origen>España</origen>
+		<oferta>true</oferta>
+		<vigenciaOferta>05/04/23</vigenciaOferta>
+		<vigenciaOferta>11/04/23</vigenciaOferta>
+		<pvp>4.99</pvp>
+		<pvpRebajado>3.99</pvpRebajado>
+		<formato>Bandeja 360gr</formato>
+		<habitual>true</habitual>
+		<adquirido>true</adquirido>
+	</productos>
+	<productos>
+		<id>2Aldi</id>
+		<nombre>Queso semicurado</nombre>
+		<seccion>lacteos</seccion>
+		<descripcion>queso semicurado con leche de vaca,oveja y cabra</descripcion>
+		<origen>España</origen>
+		<oferta>true</oferta>
+		<vigenciaOferta>05/04/23</vigenciaOferta>
+		<vigenciaOferta>11/04/23</vigenciaOferta>
+		<pvp>2.89</pvp>
+		<pvpRebajado>2.59</pvpRebajado>
+		<formato>En cuña 300 gr</formato>
+		<habitual>true</habitual>
+		<adquirido>false</adquirido>
+	</productos>
+	<productos>
+		<id>3Aldi</id>
+		<nombre>Crema 100% cacahuete crunchy</nombre>
+		<seccion>Azúcar y variados</seccion>
+		<descripcion>Crema de cacahuete 100% cacahuetes tostados</descripcion>
+		<origen>España</origen>
+		<oferta>true</oferta>
+		<vigenciaOferta>05/04/23</vigenciaOferta>
+		<vigenciaOferta>11/04/23</vigenciaOferta>
+		<pvp>3.19</pvp>
+		<pvpRebajado>2.79</pvpRebajado>
+		<formato>Bote 500gr</formato>
+		<habitual>true</habitual>
+		<adquirido>true</adquirido>
+	</productos>
+	
+</supermercado 3>
